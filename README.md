@@ -4,7 +4,7 @@
 
 Hệ thống vận hành theo nguyên tắc **Duty/Standby**: một bơm chạy để duy trì áp suất, bơm còn lại dự phòng. Dự án bao gồm phân tích yêu cầu, thiết kế hệ thống, lập trình PLC, xây dựng giao diện và chuẩn bị kiểm thử nghiệm thu mô phỏng.
 
-**Video demo:** [Bổ sung đường dẫn video 2–3 phút]
+**Video demo:** https://www.youtube.com/watch?v=ZnKtfwD-krY
 
 ## Chức năng chính
 
